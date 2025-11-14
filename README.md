@@ -7,7 +7,7 @@ Forklift
 
 
 ### Interesting + Doable
-Personal Trainer
+Personal Trainer  
 [ALOA Locksmith](https://www.aloa.org/certifications) 
 [Cullinary Certs](https://www.acfchefs.org/ACF/Certify/ACF/Certify/)  
 [Maryland Food Handlers Card | eFoodHand. ers® | $10.00](https://www.mdfoodhandlers.com/eFoodMainReg) 

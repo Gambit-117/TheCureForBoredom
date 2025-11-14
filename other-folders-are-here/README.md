@@ -1,0 +1,1 @@
+Work to migrate the folders in here, into the Certifications and Classes folders, minimize folders, maximize everything in a single file, or multiple files. Easier management
