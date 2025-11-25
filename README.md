@@ -1,6 +1,8 @@
 # The Cure For Boredom
 A compilation of as many exciting or random courses, certifications, licenses, or things to do to cure your boredom and get some excitement back in your life. ADHD
 
+Coursework is organized in an alphabetized index with hyperlinks to available online resources. Certain courses have directories with custom built coursework by myself and others as an easy place to start learning some of these topics. 
+
 ### Index
 
 ### 3D Printing
@@ -9,9 +11,9 @@ A compilation of as many exciting or random courses, certifications, licenses, o
 
 ### Amateur HAM Radio
 - [Amateur Radio Relay League (ARRL)](https://www.arrl.org)
-- [Islands on the Air (IOTA)](https://www.iota-world.org)<br>
+- [Islands on the Air (IOTA)](https://www.iota-world.org)
 - [Parks on the Air (POTA)](https://parksontheair.com)
-- [Summits on the Air (SOTA)](https://www.sota.org.uk)<br>
+- [Summits on the Air (SOTA)](https://www.sota.org.uk)
 
 ### Arborist  
 - [Chainsaw Faller position](https://iqcsweb.nwcg.gov/usfs-certification-falling-positions)  
