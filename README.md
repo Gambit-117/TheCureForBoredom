@@ -7,10 +7,10 @@ A compilation of as many exciting or random courses, certifications, licenses, o
 [Maryland Food Handlers Card | eFoodHandlers® | $10.00](https://www.mdfoodhandlers.com/eFoodMainReg) 
 
 ### Amateur HAM Radio
-[Amateur Radio Relay League (ARRL)](https://www.arrl.org)
-[Islands on the Air (IOTA)](https://www.iota-world.org)
-[Parks on the Air (POTA)](https://parksontheair.com)
-[Summits on the Air (SOTA)](https://www.sota.org.uk)
+- [Amateur Radio Relay League (ARRL)](https://www.arrl.org)
+- [Islands on the Air (IOTA)](https://www.iota-world.org)<br>
+- [Parks on the Air (POTA)](https://parksontheair.com)
+- [Summits on the Air (SOTA)](https://www.sota.org.uk)<br>
 
 ### Arborist  
 [Chainsaw Faller position](https://iqcsweb.nwcg.gov/usfs-certification-falling-positions)  
@@ -38,7 +38,7 @@ A compilation of as many exciting or random courses, certifications, licenses, o
 
 ### Culinary
 [American Culinary Federation](https://www.acfchefs.org/ACF/Certify/ACF/Certify/)  
-[State-based Food Handlers Card]
+[State-based Food Handlers Card](https://google.com)
 [State-based Food Providers Card]
 
 ### Drone Piloting
