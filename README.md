@@ -1,5 +1,5 @@
 # The Cure For Boredom
-A compilation of as many exciting or random courses, certifications, licenses, or things to do to cure your boredom and get some excitement back in your life. ADHD
+A compilation of as many exciting or random courses, certifications, licenses, or things to do to cure your boredom and get some excitement back in your life!
 
 Coursework is organized in an alphabetized index with hyperlinks to available online resources. Certain courses have directories with custom built coursework by myself and others as an easy place to start learning some of these topics. 
 
@@ -39,10 +39,10 @@ Coursework is organized in an alphabetized index with hyperlinks to available on
 - [Phlebotomy Classes & Certification in Maryland | Join Now](https://dynamicphlebotomycpr.com/#1714155197069-c350bc11-174b)  
 
 ### Cloud 
-- [Amazon Web Services](https://aws.amazon.com/certification/?trk=99417e78-33a2-4b0b-aa87-d2a058a8f9b1&sc_channel=ps&ef_id=CjwKCAiA_dDIBhB6EiwAvzc1cDjw_DApJyxDEN_-VC3gxVOyKdqHZRlVT21hiZwT8dINA8B1JhUS5RoCJyUQAvD_BwE:G:s&s_kwcid=AL!4422!3!616960529219!e!!g!!web%20services%20certification!11120345474!105898019461&gad_campaignid=11120345474&gbraid=0AAAAADjHtp8dMrM1sFZ7LErme7NjWsDom&gclid=CjwKCAiA_dDIBhB6EiwAvzc1cDjw_DApJyxDEN_-VC3gxVOyKdqHZRlVT21hiZwT8dINA8B1JhUS5RoCJyUQAvD_BwE)  
-
-- [Azure Cloud](https://azure.microsoft.com/en-us/resources/training-and-certifications#self-directed-training)  
+- [Amazon Web Services](https://aws.amazon.com/certification/?trk=99417e78-33a2-4b0b-aa87-d2a058a8f9b1&sc_channel=ps&ef_id=CjwKCAiA_dDIBhB6EiwAvzc1cDjw_DApJyxDEN_-VC3gxVOyKdqHZRlVT21hiZwT8dINA8B1JhUS5RoCJyUQAvD_BwE:G:s&s_kwcid=AL!4422!3!616960529219!e!!g!!web%20services%20certification!11120345474!105898019461&gad_campaignid=11120345474&gbraid=0AAAAADjHtp8dMrM1sFZ7LErme7NjWsDom&gclid=CjwKCAiA_dDIBhB6EiwAvzc1cDjw_DApJyxDEN_-VC3gxVOyKdqHZRlVT21hiZwT8dINA8B1JhUS5RoCJyUQAvD_BwE)
+- [Azure Cloud](https://azure.microsoft.com/en-us/resources/training-and-certifications#self-directed-training)
 - [Google Cloud](https://cloud.google.com/learn?gclsrc=aw.ds&gad_source=1&gad_campaignid=23058938048&gclid=CjwKCAiA_dDIBhB6EiwAvzc1cMV4lVN-_v8uJRxQ7PrkE_alCc5hv3Z2rkseTidPoCiXyDEY6m1lZxoCo_MQAvD_BwE)  
+### Computer Architecture 
 
 ### Culinary
 - [American Culinary Federation](https://www.acfchefs.org/ACF/Certify/ACF/Certify/)  
