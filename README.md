@@ -102,6 +102,8 @@ Coursework is organized in an alphabetized index with hyperlinks to available on
 ### Locksmithing
 - [Associated Locksmiths of America](https://www.aloa.org/certifications)
 
+### Linux Operating System
+
 ### Mathematics
 - [Calc Workshop](https://calcworkshop.com/)
 
