@@ -21,6 +21,7 @@ Coursework is organized in an alphabetized index with hyperlinks to available on
 ### Astronomy
 - [Astronomical League](https://www.astroleague.org)
 - [Amateur Astronomers Association](https://aaa.org)
+- [The Planetary Society Courses](https://www.planetary.org/courses)
 - [SKYNET](https://www.skynet.unc.edu)
 
 ### Bioinformatics 
