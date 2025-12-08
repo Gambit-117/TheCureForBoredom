@@ -4,6 +4,13 @@ A compilation of as many exciting or random courses, certifications, licenses, o
 Coursework is organized in an alphabetized index with hyperlinks to available online resources. Certain courses have directories with custom built coursework by myself and others as an easy place to start learning some of these topics. 
 
 ### Index
+- [3D Printing](#3d-printing)
+- [Amateur HAM Radio](#amateur-ham-radio)
+- [Aborist](#arborist)
+- [Astronomy](#astronomy)
+- [Bioinformatics](#bioinformatics)
+- [Bird Watching](#bird-watching)
+- [Carpentry](#carpentry)
 
 ### 3D Printing
 - [Creality](https://www.creatlity.com)
