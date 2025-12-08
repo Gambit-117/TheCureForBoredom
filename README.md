@@ -30,7 +30,7 @@ Coursework is organized in an alphabetized index with hyperlinks to available on
 ### Bird Watching
 - [Birder Certification Program](https://www.birdercertification.org/) 
 
-### Carpentry
+### Carpentry / Woodworking
 
 ### Chemistry
 - [American Chemical Society](https://www.acs.org)
@@ -42,8 +42,10 @@ Coursework is organized in an alphabetized index with hyperlinks to available on
 ### Cloud 
 - [Amazon Web Services](https://aws.amazon.com/certification/?trk=99417e78-33a2-4b0b-aa87-d2a058a8f9b1&sc_channel=ps&ef_id=CjwKCAiA_dDIBhB6EiwAvzc1cDjw_DApJyxDEN_-VC3gxVOyKdqHZRlVT21hiZwT8dINA8B1JhUS5RoCJyUQAvD_BwE:G:s&s_kwcid=AL!4422!3!616960529219!e!!g!!web%20services%20certification!11120345474!105898019461&gad_campaignid=11120345474&gbraid=0AAAAADjHtp8dMrM1sFZ7LErme7NjWsDom&gclid=CjwKCAiA_dDIBhB6EiwAvzc1cDjw_DApJyxDEN_-VC3gxVOyKdqHZRlVT21hiZwT8dINA8B1JhUS5RoCJyUQAvD_BwE)
 - [Azure Cloud](https://azure.microsoft.com/en-us/resources/training-and-certifications#self-directed-training)
-- [Google Cloud](https://cloud.google.com/learn?gclsrc=aw.ds&gad_source=1&gad_campaignid=23058938048&gclid=CjwKCAiA_dDIBhB6EiwAvzc1cMV4lVN-_v8uJRxQ7PrkE_alCc5hv3Z2rkseTidPoCiXyDEY6m1lZxoCo_MQAvD_BwE)  
+- [Google Cloud](https://cloud.google.com/learn?gclsrc=aw.ds&gad_source=1&gad_campaignid=23058938048&gclid=CjwKCAiA_dDIBhB6EiwAvzc1cMV4lVN-_v8uJRxQ7PrkE_alCc5hv3Z2rkseTidPoCiXyDEY6m1lZxoCo_MQAvD_BwE)
+  
 ### Computer Architecture 
+- [OpenCourseWare MIT Computer System Architecture Course](https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/)
 
 ### Culinary
 - [American Culinary Federation](https://www.acfchefs.org/ACF/Certify/ACF/Certify/)  
@@ -58,6 +60,7 @@ Coursework is organized in an alphabetized index with hyperlinks to available on
 - [Drone Pilot Certification](https://www.faa.gov/uas/commercial_operators/become_a_drone_pilot)  
 
 ### Electrical Engineering
+- [AMASCI Basics](http://amasci.com/ele-edu.html)
 
 ### Emergency Medicine
 - [AHA Basic Life Support CPR](https://cpr.heart.org/en/cpr-courses-and-kits/healthcare-professional/basic-life-support-bls-training)
@@ -90,7 +93,10 @@ Coursework is organized in an alphabetized index with hyperlinks to available on
 - [Gemologist cert](https://www.gia.edu/gem-education/program-graduate-gemologist)  
 
 ### Locksmithing
-- [Associated Locksmiths of America](https://www.aloa.org/certifications) 
+- [Associated Locksmiths of America](https://www.aloa.org/certifications)
+
+### Mathematics
+- [Calc Workshop](https://calcworkshop.com/)
 
 ### Mechanical
 - [Small Engine Repair](https://www.eetc.org/page/PrinciplesofSmallEngineTechnology)  
