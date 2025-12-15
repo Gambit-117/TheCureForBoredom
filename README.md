@@ -11,10 +11,33 @@ Coursework is organized in an alphabetized index with hyperlinks to available on
 - [Bioinformatics](#bioinformatics)
 - [Bird Watching](#bird-watching)
 - [Carpentry](#carpentry)
+- [Chemistry](#Chemistry)
+- [Clinical Medicine](#clinical-medicine)
+- [Cloud](#cloud)
+- [Computer Architecture](#computer-architecture)
+- [Culinary](#culinary)
+- [Digital Forensics](#digital-forensics)
+- [Drone Piloting](#drone-piloting)
+- [Electrical Engineering](#electrical-engineering)
+- [Emergency Medicine](#emergency-medicine)
+- [Environmental Awareness](#environmental-awareness)
+- [Ethical Hacking](#ethical-hacking)
+- [Firearms](#firearms)
+- [Forklift Training](#forklift-training)
+- [Game Development](#game-development)
+- [Gardening](#gardening)
+- [Gemology](#gemology)
+- [Locksmithing](#locksmithing)
+- [Operating Systems](#operating-systems)
+- [Scuba](#scuba)
+- [Web Development](#web-development)
+
+___
 
 ### 3D Printing
 - [Creality](https://www.creatlity.com)
 - [BambuLab](https://www.bambulab.com)
+- [Prusa](https://www.prusa3d.com/)
 
 ### Amateur HAM Radio
 - [Amateur Radio Relay League (ARRL)](https://www.arrl.org)
@@ -23,7 +46,8 @@ Coursework is organized in an alphabetized index with hyperlinks to available on
 - [Summits on the Air (SOTA)](https://www.sota.org.uk)
 
 ### Arborist  
-- [Chainsaw Faller position](https://iqcsweb.nwcg.gov/usfs-certification-falling-positions)  
+- [Chainsaw Faller Position Training](https://iqcsweb.nwcg.gov/usfs-certification-falling-positions) 
+- [Utility Arborist Association](https://member.gotouaa.org/)
 
 ### Astronomy
 - [Astronomical League](https://www.astroleague.org)
@@ -38,6 +62,7 @@ Coursework is organized in an alphabetized index with hyperlinks to available on
 - [Birder Certification Program](https://www.birdercertification.org/) 
 
 ### Carpentry / Woodworking
+- [Woodworker Institute](https://woodworkersinstitute.com/)
 
 ### Chemistry
 - [American Chemical Society](https://www.acs.org)
@@ -50,7 +75,8 @@ Coursework is organized in an alphabetized index with hyperlinks to available on
 - [Amazon Web Services](https://aws.amazon.com/certification/?trk=99417e78-33a2-4b0b-aa87-d2a058a8f9b1&sc_channel=ps&ef_id=CjwKCAiA_dDIBhB6EiwAvzc1cDjw_DApJyxDEN_-VC3gxVOyKdqHZRlVT21hiZwT8dINA8B1JhUS5RoCJyUQAvD_BwE:G:s&s_kwcid=AL!4422!3!616960529219!e!!g!!web%20services%20certification!11120345474!105898019461&gad_campaignid=11120345474&gbraid=0AAAAADjHtp8dMrM1sFZ7LErme7NjWsDom&gclid=CjwKCAiA_dDIBhB6EiwAvzc1cDjw_DApJyxDEN_-VC3gxVOyKdqHZRlVT21hiZwT8dINA8B1JhUS5RoCJyUQAvD_BwE)
 - [Azure Cloud](https://azure.microsoft.com/en-us/resources/training-and-certifications#self-directed-training)
 - [Google Cloud](https://cloud.google.com/learn?gclsrc=aw.ds&gad_source=1&gad_campaignid=23058938048&gclid=CjwKCAiA_dDIBhB6EiwAvzc1cMV4lVN-_v8uJRxQ7PrkE_alCc5hv3Z2rkseTidPoCiXyDEY6m1lZxoCo_MQAvD_BwE)
-  
+- [Learn to Cloud](https://learntocloud.guide/)
+
 ### Computer Architecture 
 - [OpenCourseWare MIT Computer System Architecture Course](https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/)
 
@@ -85,9 +111,9 @@ Coursework is organized in an alphabetized index with hyperlinks to available on
 - [HackTheBox](https://hackthebox.com)
 
 ### Firearms
-- [NRA Basics of Pistol Shooting | NRA Explore](https://basicpistol.nra.org/)  
+- [NRA Basics of Pistol Shooting](https://basicpistol.nra.org/)  
 
-### Forklift
+### Forklift Training
 - [Official Forklift Safety and Training Certification | Liftoff Certifications™](https://liftoffcerts.com/)  
 
 ### Game Development
@@ -102,8 +128,6 @@ Coursework is organized in an alphabetized index with hyperlinks to available on
 ### Locksmithing
 - [Associated Locksmiths of America](https://www.aloa.org/certifications)
 
-### Linux Operating System
-
 ### Mathematics
 - [Calc Workshop](https://calcworkshop.com/)
 
@@ -114,13 +138,14 @@ Coursework is organized in an alphabetized index with hyperlinks to available on
 - [American Meteorological Society](https://www.ametsoc.org)
 - [SKYWARN](https://www.weather.gov/skywarn)  
 - [Weather Forecasting Undergraduate Certificate Online - Penn State World Campus](https://www.worldcampus.psu.edu/degrees-and-certificates/penn-state-online-weather-forecasting-undergraduate-certificate#courses)  
-- [Geographic Information Systems (GIS). Certificate Online - Penn State World Campus](https://www.worldcampus.psu.edu/degrees-and-certificates/penn-state-online-gis-geographic-information-systems-postbaccalaureate-certificate)  
+- [Geographic Information Systems (GIS) Certificate Online - Penn State World Campus](https://www.worldcampus.psu.edu/degrees-and-certificates/penn-state-online-gis-geographic-information-systems-postbaccalaureate-certificate)  
 
 ### Miscellaneous
 - [Rat Tickling](https://storage.googleapis.com/ecourses/Rat%20Tickling%20Certification/story_html5.html)  
+- Zamboni Operator Certification
 
 ### Musical Instruments
-- [Jay from BetterSax](https://bettersax.com)
+- [Saxophone Courses - Jay from BetterSax](https://bettersax.com)
 
 ### Notary Commission 
 - [Notary Commission](https://onestop.md.gov/licenses/notary-commission-5d15409a54f24d03e9997a93)  
@@ -129,12 +154,21 @@ Coursework is organized in an alphabetized index with hyperlinks to available on
 - [Snowmobile safety course](https://www.snowmobile-ed.com/)  
 - [ORV Registration Requirements](https://dnr.maryland.gov/forests/pages/orv/register.aspx)  
 
+### Operating Systems
+- [CompTIA Linux+](https://www.comptia.org/en-us/certifications/linux/)
+- [Red Hat Enterprise Linux OS](https://www.redhat.com/en/services/training/rh024-red-hat-linux-technical-overview)
+- [Windows Server Administration - AZ-800](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-800/)
+
 ### Origami
+- [Origami Instructions](http://www.origami-instructions.com/)
 
 ### Outdoor Activities
+- [Local Trail Hikes](https://www.alltrails.com/nearby/hiking)
 
 ### Physical Health and Wellness  
 - [Personal Trainer](https://go.issaonline.com)
+- [Mobility Training](something)
+- [Learn to do a Handstand](https://www.bergmovement.com/calisthenics-blog/complete-beginners-guide-handstand?via=blog)
 
 ### Programming
 - [Edube C++](https://edube.org/study/cppe1)
@@ -150,3 +184,4 @@ Coursework is organized in an alphabetized index with hyperlinks to available on
 - [Scuba Cert](https://store.padi.com/en-us/courses/)  
 
 ### Web Development
+- [Angela Yu - Full Stack Web Dev Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
