@@ -100,10 +100,13 @@ ___
 - [AHA Advanced Cardiovascular Life Support](https://cpr.heart.org/en/cpr-courses-and-kits/healthcare-professional/acls)
 - [SARTECH II](https://nasar.org/page/WildOper)  
 - [Wilderness Medicine - NOLS](https://www.nols.edu/courses/wm/)  
-- [Emergency Medical Operations for CBRNE Incidents - Center for Domestic Preparedness](https://cdp.dhs.gov/training/course/PER-267)  
+- [Emergency Medical Operations for CBRNE Incidents - Center for Domestic Preparedness](https://cdp.dhs.gov/training/course/PER-267)
+- [Emergency Medical Communications Radio Training](https://learn.arrl.org/courses/67044)
 
 ### Environmental Awareness
-- [Leave no trace](https://lnt.org/get-involved/training-courses/) 
+- [Leave no trace](https://lnt.org/get-involved/training-courses/)
+- [NRPA Environmental Sustainability Training](https://learning.nrpa.org/products/environmental-sustainability-training-center?utm_source=chatgpt.com)
+- [Ecology and Environmental Science](https://catchwisdom.com/course/ecology-and-environmental-science/)
 
 ### Ethical Hacking
 - [EC Council Certified Ethical Hacker](https://eccouncil.org)
