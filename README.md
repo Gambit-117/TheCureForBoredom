@@ -107,6 +107,7 @@ ___
 - [Leave no trace](https://lnt.org/get-involved/training-courses/)
 - [NRPA Environmental Sustainability Training](https://learning.nrpa.org/products/environmental-sustainability-training-center?utm_source=chatgpt.com)
 - [Ecology and Environmental Science](https://catchwisdom.com/course/ecology-and-environmental-science/)
+- [IUCN - Intro to Cities and Nature](https://iucnacademy.org/courses/introduction-to-cities-and-nature/)
 
 ### Ethical Hacking
 - [EC Council Certified Ethical Hacker](https://eccouncil.org)
