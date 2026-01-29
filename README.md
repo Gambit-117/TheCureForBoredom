@@ -1,7 +1,7 @@
 # The Cure For Boredom
 A compilation of as many exciting or random courses, certifications, licenses, or things to do to cure your boredom and get some excitement back in your life!
 
-Coursework is organized in an alphabetized index with hyperlinks to available online resources. Certain courses have directories with custom built coursework by myself and others as an easy place to start learning some of these topics. 
+Coursework is organized in an alphabetized index with hyperlinks to available online resources. Certain courses have their own directories with custom built coursework by myself and others as an easy place to start learning or start getting involved in some of these topics. 
 
 ### Index
 - [3D Printing](#3d-printing)
