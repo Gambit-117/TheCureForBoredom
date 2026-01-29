@@ -28,7 +28,20 @@ Coursework is organized in an alphabetized index with hyperlinks to available on
 - [Gardening](#gardening)
 - [Gemology](#gemology)
 - [Locksmithing](#locksmithing)
+- [Mathematics](#mathematics)
+- [Mechanical](#mechanical)
+- [Meteorology](#meteorology)
+- [Miscellaneous](#miscellaneous)
+- [Musical Instruments](#musical-instruments)
+- [Notary Commission](#notary-commission)
+- [Offroad Vehicles](#offroad-vehicles)
 - [Operating Systems](#operating-systems)
+- [Origami](#origami)
+- [Outdoor Activities](#outdoor-activities)
+- [Physical Health and Wellness](#physical-health-and-wellness)
+- [Programming](#programming)
+- [Public Safety](#public-safety)
+- [Pyrotechnism](#pyrotechnism)
 - [Scuba](#scuba)
 - [Web Development](#web-development)
 
@@ -140,9 +153,10 @@ ___
 
 ### Meteorology 
 - [American Meteorological Society](https://www.ametsoc.org)
-- [SKYWARN](https://www.weather.gov/skywarn)  
-- [Weather Forecasting Undergraduate Certificate Online - Penn State World Campus](https://www.worldcampus.psu.edu/degrees-and-certificates/penn-state-online-weather-forecasting-undergraduate-certificate#courses)  
-- [Geographic Information Systems (GIS) Certificate Online - Penn State World Campus](https://www.worldcampus.psu.edu/degrees-and-certificates/penn-state-online-gis-geographic-information-systems-postbaccalaureate-certificate)  
+- [SKYWARN - National Storm Spotter](https://www.weather.gov/skywarn)
+- [Community Collaborative Rain, Hail, and Snow Network (CoCoRaHS)](https://www.cocorahs.org/)
+- [Weather Forecasting Undergraduate Certificate](https://www.worldcampus.psu.edu/degrees-and-certificates/penn-state-online-weather-forecasting-undergraduate-certificate#courses)  
+- [Geographic Information Systems (GIS) Certificate](https://www.worldcampus.psu.edu/degrees-and-certificates/penn-state-online-gis-geographic-information-systems-postbaccalaureate-certificate)  
 
 ### Miscellaneous
 - [Rat Tickling](https://storage.googleapis.com/ecourses/Rat%20Tickling%20Certification/story_html5.html)  
