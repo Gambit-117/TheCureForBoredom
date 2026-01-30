@@ -118,12 +118,13 @@ ___
 
 ### Environmental Awareness
 - [Leave no trace](https://lnt.org/get-involved/training-courses/)
-- [NRPA Environmental Sustainability Training](https://learning.nrpa.org/products/environmental-sustainability-training-center?utm_source=chatgpt.com)
+- [NRPA Environmental Sustainability Training](https://learning.nrpa.org/products/environmental-sustainability-training-center)
 - [Ecology and Environmental Science](https://catchwisdom.com/course/ecology-and-environmental-science/)
 - [IUCN - Intro to Cities and Nature](https://iucnacademy.org/courses/introduction-to-cities-and-nature/)
 
 ### Ethical Hacking
 - [EC Council Certified Ethical Hacker](https://eccouncil.org)
+- [CompTIA Pentest+](https://www.comptia.org/en-us/certifications/pentest/)
 - [TryHackMe](https://tryhackme.com)
 - [HackTheBox](https://hackthebox.com)
 
@@ -137,16 +138,19 @@ ___
 - [GameDevTV](https://www.gamedev.tv)
 
 ### Gardening 
-- [Master Gardener](https://ahsgardening.org/master-gardeners/)  
+- [Master Gardener](https://ahsgardening.org/master-gardeners/)
+- [Organic Grower School](https://www.organicgrowersschool.org/)
+- [American Horticultural Society](https://ahsgardening.org/self-paced-online-courses/)
 
 ### Gemology  
-- [Gemologist cert](https://www.gia.edu/gem-education/program-graduate-gemologist)  
+- [Gemology Institute of America (GIA) Gemologist](https://www.gia.edu/gem-education/program-graduate-gemologist)
 
 ### Locksmithing
 - [Associated Locksmiths of America](https://www.aloa.org/certifications)
 
 ### Mathematics
 - [Calc Workshop](https://calcworkshop.com/)
+- [Harvard Public Courses](https://pll.harvard.edu/subject/mathematics/free)
 
 ### Mechanical
 - [Small Engine Repair](https://www.eetc.org/page/PrinciplesofSmallEngineTechnology)  
@@ -178,10 +182,14 @@ ___
 - [Windows Server Administration - AZ-800](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-800/)
 
 ### Origami
+- [Origami USA](https://origamiusa.org/)
 - [Origami Instructions](http://www.origami-instructions.com/)
+- [Origami Guide](https://origami.guide/)
 
 ### Outdoor Activities
 - [Local Trail Hikes](https://www.alltrails.com/nearby/hiking)
+- [IronMan Competitions](https://www.ironman.com/)
+- [World Running](https://aims-worldrunning.org/aims.html)
 
 ### Physical Health and Wellness  
 - [Personal Trainer](https://go.issaonline.com)
