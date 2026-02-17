@@ -79,6 +79,7 @@ ___
 ### Candle Making
 - [AIBM Certified Candle-Making Professional](https://aibm.us/certified-candle-making-professional-ccmp/)
 - [SoapGuild Basic Candlemaker Certification](https://www.soapguild.org/member-benefits/certification/basic-candle)
+- [CandleAcademy Training](https://www.candleacademy.com/)
 
 ### Carpentry / Woodworking
 - [Woodworker Institute](https://woodworkersinstitute.com/)
