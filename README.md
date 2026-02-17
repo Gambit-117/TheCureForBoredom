@@ -10,6 +10,7 @@ Coursework is organized in an alphabetized index with hyperlinks to available on
 - [Astronomy](#astronomy)
 - [Bioinformatics](#bioinformatics)
 - [Bird Watching](#bird-watching)
+- [Candle Making](#candle-making)
 - [Carpentry](#carpentry)
 - [Chemistry](#Chemistry)
 - [Clinical Medicine](#clinical-medicine)
@@ -38,6 +39,7 @@ Coursework is organized in an alphabetized index with hyperlinks to available on
 - [Operating Systems](#operating-systems)
 - [Origami](#origami)
 - [Outdoor Activities](#outdoor-activities)
+- [Photography](#photography)
 - [Physical Health and Wellness](#physical-health-and-wellness)
 - [Programming](#programming)
 - [Public Safety](#public-safety)
@@ -72,10 +74,18 @@ ___
 - [Bioconductors in R](https://www.datacamp.com/courses/introduction-to-bioconductor-in-r?utm_cid=1565610363&utm_aid=183282097606&utm_campaign=220808_1-ps-dscia~tech~r_2-b2c_3-nam_4-prc_5-na_6-na_7-le_8-pdsh-go_9-nb-e_10-na_11-na&utm_loc=9008885-&utm_mtd=b-c&utm_kw=differential%20expression%20analysis%20r&utm_source=google&utm_medium=paid_search&utm_content=ps-dscia~nam-en~tech~r~bioinformatics&gad_source=1&gad_campaignid=1565610363&gbraid=0AAAAADQ9WsHMIUEXCJsVX567DGNyTCzjC&gclid=CjwKCAiA_dDIBhB6EiwAvzc1cNJbibgeEuAH9DLihKvRq0399ixBYklHMvvMQkTcWodXGyG0SPuIJxoC2WQQAvD_BwE) 
 
 ### Bird Watching
-- [Birder Certification Program](https://www.birdercertification.org/) 
+- [Birder Certification Program](https://www.birdercertification.org/)
+
+### Candle Making
+- [AIBM Certified Candle-Making Professional](https://aibm.us/certified-candle-making-professional-ccmp/)
+- [SoapGuild Basic Candlemaker Certification](https://www.soapguild.org/member-benefits/certification/basic-candle)
 
 ### Carpentry / Woodworking
 - [Woodworker Institute](https://woodworkersinstitute.com/)
+
+### Cheese Making
+- [AIBM Certified Cheesemaking Professional (CCP)](https://aibm.us/certified-cheesemaking-professional-ccp/)
+- [Academy of Cheese Training](https://academyofcheese.org/certified-cheese-professional-certification/)
 
 ### Chemistry
 - [American Chemical Society](https://www.acs.org)
@@ -191,6 +201,12 @@ ___
 - [IronMan Competitions](https://www.ironman.com/)
 - [World Running](https://aims-worldrunning.org/aims.html)
 
+### Photography
+- [The School of Photography](https://www.theschoolofphotography.com/)
+- [PhotographyLife.com](https://photographylife.com/learn-photography)
+- [Instructables Photography Guide](https://www.instructables.com/Starting-Photography-a-Beginners-Guide/)
+- [Professional Photographers of America Certifications](https://www.ppa.com/credentials/cpp)
+  
 ### Physical Health and Wellness  
 - [Personal Trainer](https://go.issaonline.com)
 - [Mobility Training](something)
