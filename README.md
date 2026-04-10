@@ -93,8 +93,10 @@ ___
 - [Master Organic Chemistry](https://www.masterorganicchemistry.com)
 
 ### Clinical Medicine 
-- [Phlebotomy Classes & Certification in Maryland | Join Now](https://dynamicphlebotomycpr.com/#1714155197069-c350bc11-174b)  
-
+- [Phlebotomy Classes & Certification in Maryland | Join Now](https://dynamicphlebotomycpr.com/#1714155197069-c350bc11-174b)
+- [National Healthcareer Association (NHA) Certified Phlebotomist (CPT)](https://www.nhanow.com/certification/nha-certifications/certified-phlebotomy-technician-(cpt))
+- [National Healthcareer Association (NHA) Certified EKG Technician (CET)](https://www.nhanow.com/certification/nha-certifications/certified-ekg-technician-(cet))
+  
 ### Cloud 
 - [Amazon Web Services](https://aws.amazon.com/certification/?trk=99417e78-33a2-4b0b-aa87-d2a058a8f9b1&sc_channel=ps&ef_id=CjwKCAiA_dDIBhB6EiwAvzc1cDjw_DApJyxDEN_-VC3gxVOyKdqHZRlVT21hiZwT8dINA8B1JhUS5RoCJyUQAvD_BwE:G:s&s_kwcid=AL!4422!3!616960529219!e!!g!!web%20services%20certification!11120345474!105898019461&gad_campaignid=11120345474&gbraid=0AAAAADjHtp8dMrM1sFZ7LErme7NjWsDom&gclid=CjwKCAiA_dDIBhB6EiwAvzc1cDjw_DApJyxDEN_-VC3gxVOyKdqHZRlVT21hiZwT8dINA8B1JhUS5RoCJyUQAvD_BwE)
 - [Azure Cloud](https://azure.microsoft.com/en-us/resources/training-and-certifications#self-directed-training)
