@@ -19,7 +19,7 @@ Coursework is organized in an alphabetized index with hyperlinks to available on
 - [Culinary](#culinary)
 - [Digital Forensics](#digital-forensics)
 - [Drone Piloting](#drone-piloting)
-- [Electrical Engineering](#electrical-engineering)
+- [Electrical](#electrical)
 - [Emergency Medicine](#emergency-medicine)
 - [Environmental Awareness](#environmental-awareness)
 - [Ethical Hacking](#ethical-hacking)
@@ -46,6 +46,7 @@ Coursework is organized in an alphabetized index with hyperlinks to available on
 - [Pyrotechnism](#pyrotechnism)
 - [Scuba](#scuba)
 - [Web Development](#web-development)
+- [Welding](#welding)
 
 ___
 
@@ -118,8 +119,10 @@ ___
 ### Drone Piloting
 - [Drone Pilot Certification](https://www.faa.gov/uas/commercial_operators/become_a_drone_pilot)  
 
-### Electrical Engineering
+### Electrical
 - [AMASCI Basics](http://amasci.com/ele-edu.html)
+- [NCCER Electrical Levels 1-4](https://www.nccer.org/craft-catalog/electrical/)
+- [ElectricianU](https://electricianu.com)
 
 ### Emergency Medicine
 - [AHA Basic Life Support CPR](https://cpr.heart.org/en/cpr-courses-and-kits/healthcare-professional/basic-life-support-bls-training)
@@ -230,3 +233,6 @@ ___
 
 ### Web Development
 - [Angela Yu - Full Stack Web Dev Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+
+### Welding
+- [AWS SENSE Courses](https://www.senseonline.org/)
