@@ -84,6 +84,7 @@ ___
 ### Arborist  
 - [Chainsaw Faller Position Training](https://iqcsweb.nwcg.gov/usfs-certification-falling-positions) 
 - [Utility Arborist Association](https://member.gotouaa.org/)
+- [ISA Certified Arborist](https://www.isa-arbor.com/credentials/types-of-credentials/isa-certified-arborist)
 
 ### Astronomy
 - [Astronomical League](https://www.astroleague.org)
@@ -196,7 +197,7 @@ ___
 ### Gemology  
 - [Gemology Institute of America (GIA) Gemologist](https://www.gia.edu/gem-education/program-graduate-gemologist)
 
-### Geogrpahic Information Systems
+### Geographic Information Systems
 - [Esri Technical Certifications](https://www.esri.com/training/certification-find-exam/search/)
 
 ### HVACR
