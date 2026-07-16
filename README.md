@@ -8,15 +8,20 @@ Coursework is organized in an alphabetized index with hyperlinks to available on
 - [Amateur HAM Radio](#amateur-ham-radio)
 - [Aborist](#arborist)
 - [Astronomy](#astronomy)
+- [Aviation](#aviation)
+- [Bicycle Repair](#bicycle-repair)
 - [Bioinformatics](#bioinformatics)
 - [Bird Watching](#bird-watching)
 - [Candle Making](#candle-making)
 - [Carpentry](#carpentry)
+- [Cartography](#cartography)
 - [Chemistry](#Chemistry)
 - [Clinical Medicine](#clinical-medicine)
 - [Cloud](#cloud)
 - [Computer Architecture](#computer-architecture)
+- [Crochet](#crochet)
 - [Culinary](#culinary)
+- [Dev Ops](#dev-ops)
 - [Digital Forensics](#digital-forensics)
 - [Drone Piloting](#drone-piloting)
 - [Electrical](#electrical)
@@ -28,6 +33,11 @@ Coursework is organized in an alphabetized index with hyperlinks to available on
 - [Game Development](#game-development)
 - [Gardening](#gardening)
 - [Gemology](#gemology)
+- [Geographic Information Systems](#geographic-information-systems)
+- [HVACR](#hvacr)
+- [Internet of Things](#internet-of-things)
+- [Jewelry Making](#jewelry-making)
+- [Knitting](#knitting)
 - [Locksmithing](#locksmithing)
 - [Mathematics](#mathematics)
 - [Mechanical](#mechanical)
@@ -44,9 +54,19 @@ Coursework is organized in an alphabetized index with hyperlinks to available on
 - [Programming](#programming)
 - [Public Safety](#public-safety)
 - [Pyrotechnism](#pyrotechnism)
+- [Quantum Physics](#quantum-physics)
+- [Robotics](#robotics)
+- [Rock Climbing](#rock-climbing)
 - [Scuba](#scuba)
+- [Solar Installation](#solar-installation)
+- [Taxidermy](#taxidermy)
+- [UAV Operations](#uav-operations)
+- [Videography](#videography)
 - [Web Development](#web-development)
 - [Welding](#welding)
+- [X-ray Imaging](#x-ray-imaging)
+- [Yeast Culturing](#yeast-culturing)
+- [Zymology](#zymology)
 
 ___
 
@@ -71,6 +91,12 @@ ___
 - [The Planetary Society Courses](https://www.planetary.org/courses)
 - [SKYNET](https://www.skynet.unc.edu)
 
+### Aviation
+- [Fill in](https://google.com)
+
+### Bicycle Repair
+- [fill in](https://google.com)
+
 ### Bioinformatics 
 - [Bioconductors in R](https://www.datacamp.com/courses/introduction-to-bioconductor-in-r?utm_cid=1565610363&utm_aid=183282097606&utm_campaign=220808_1-ps-dscia~tech~r_2-b2c_3-nam_4-prc_5-na_6-na_7-le_8-pdsh-go_9-nb-e_10-na_11-na&utm_loc=9008885-&utm_mtd=b-c&utm_kw=differential%20expression%20analysis%20r&utm_source=google&utm_medium=paid_search&utm_content=ps-dscia~nam-en~tech~r~bioinformatics&gad_source=1&gad_campaignid=1565610363&gbraid=0AAAAADQ9WsHMIUEXCJsVX567DGNyTCzjC&gclid=CjwKCAiA_dDIBhB6EiwAvzc1cNJbibgeEuAH9DLihKvRq0399ixBYklHMvvMQkTcWodXGyG0SPuIJxoC2WQQAvD_BwE) 
 
@@ -82,8 +108,11 @@ ___
 - [SoapGuild Basic Candlemaker Certification](https://www.soapguild.org/member-benefits/certification/basic-candle)
 - [CandleAcademy Training](https://www.candleacademy.com/)
 
-### Carpentry / Woodworking
+### Carpentry
 - [Woodworker Institute](https://woodworkersinstitute.com/)
+
+### Cartography
+- [Penn State Free Online Cartography Course](https://courses.ems.psu.edu/geog486/)
 
 ### Cheese Making
 - [AIBM Certified Cheesemaking Professional (CCP)](https://aibm.us/certified-cheesemaking-professional-ccp/)
@@ -107,10 +136,16 @@ ___
 ### Computer Architecture 
 - [OpenCourseWare MIT Computer System Architecture Course](https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/)
 
+### Crochet
+- [fill in](https://google.com)
+
 ### Culinary
 - [American Culinary Federation](https://www.acfchefs.org/ACF/Certify/ACF/Certify/)  
 - [State-based Food Handlers Card](https://google.com)
 - [State-based Food Providers Card]
+
+### Dev Ops
+- [fill in](https://google.com)
 
 ### Digital Forensics
 - [Legal Tech Society](https://legaltechsociety.org/Professional-Home)
@@ -160,6 +195,22 @@ ___
 
 ### Gemology  
 - [Gemology Institute of America (GIA) Gemologist](https://www.gia.edu/gem-education/program-graduate-gemologist)
+
+### Geogrpahic Information Systems
+- [Esri Technical Certifications](https://www.esri.com/training/certification-find-exam/search/)
+
+### HVACR
+- [NCCER HVACR Levels 1-4](https://www.nccer.org/craft-catalog/hvacr/)
+- [EPA Section 608 Certification](https://www.epa.gov/section608/section-608-technician-certification)
+
+### Internet of Things
+- [fill in](https://google.com)
+
+### Jewelry Making
+- [fill in](https://google.com)
+
+### Knitting
+- [fill in](https://google.com)
 
 ### Locksmithing
 - [Associated Locksmiths of America](https://www.aloa.org/certifications)
@@ -226,13 +277,43 @@ ___
 - [Radiation Safety Officer Training](https://www.ntanet.net/rso.html?gad_source=1&gad_campaignid=671260&gbraid=0AAAAAD_vTHCV04gEwyaNldcEvoTllnZFh&gclid=CjwKCAiA_dDIBhB6EiwAvzc1cH_GZIXszCW0OT_dxGGzFrParKx-OAntfIvL-Pd70YVaOenoAryX6xoCXaQQAvD_BwE)  
 
 ### Pyrotechnism
-- [PGI Training | Pyrotechnics Guild International](https://pgi.org/training)  
+- [PGI Training | Pyrotechnics Guild International](https://pgi.org/training)
+
+### Quantum Physics
+- [fill in](https://google.com)
+
+### Robotics
+- [fill in](https://google.com)
+
+### Rock Climbing
+- [fill in](https://google.com)
 
 ### Scuba
-- [Scuba Cert](https://store.padi.com/en-us/courses/)  
+- [Scuba Cert](https://store.padi.com/en-us/courses/)
+
+### Solar Insallation
+- [fill in](https://google.com)
+
+### Taxidermy
+- [fill in](https://google.com)
+
+### UAV Operations
+- [fill in](https://google.com)
+
+### Videography
+- [fill in](https://google.com)
 
 ### Web Development
 - [Angela Yu - Full Stack Web Dev Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
 ### Welding
 - [AWS SENSE Courses](https://www.senseonline.org/)
+
+### X-ray Imaging
+- [fill in](https://google.com)
+
+### Yeast Culturing
+- [fill in](https://google.com)
+
+### Zymology
+- [fill in](https://google.com)
