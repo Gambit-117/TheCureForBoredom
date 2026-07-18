@@ -216,6 +216,8 @@ ___
 
 ### Linux
 - [CompTIA Linux+ Certification](https://www.comptia.org/en-us/certifications/linux/)
+- [Red Hat Certified System Administrator](https://www.redhat.com/en/services/certification/rhcsa)
+- [Linux Foundation Certified System Administrator](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/)
 
 ### Locksmithing
 - [Associated Locksmiths of America](https://www.aloa.org/certifications)
