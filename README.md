@@ -299,7 +299,7 @@ ___
 - [Scuba Cert](https://store.padi.com/en-us/courses/)
 
 ### Solar Insallation
-- [fill in](https://google.com)
+- [Solar Energy International Free Online Courses](https://www.solarenergy.org/free-learning/)
 
 ### Taxidermy
 - [fill in](https://google.com)
@@ -308,7 +308,7 @@ ___
 - [fill in](https://google.com)
 
 ### Videography
-- [fill in](https://google.com)
+- [The School of Photography Videography Course](https://www.theschoolofphotography.com/courses/online-videography-course)
 
 ### Web Development
 - [Angela Yu - Full Stack Web Dev Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
@@ -317,7 +317,7 @@ ___
 - [AWS SENSE Courses](https://www.senseonline.org/)
 
 ### X-ray Imaging
-- [fill in](https://google.com)
+- [ARRT Certifications](https://www.arrt.org/pages/about-the-profession/arrt-certification-and-registration)
 
 ### Yeast Culturing
 - [fill in](https://google.com)
