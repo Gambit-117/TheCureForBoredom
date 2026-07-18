@@ -38,6 +38,7 @@ Coursework is organized in an alphabetized index with hyperlinks to available on
 - [Internet of Things](#internet-of-things)
 - [Jewelry Making](#jewelry-making)
 - [Knitting](#knitting)
+- [Linux](#linux)
 - [Locksmithing](#locksmithing)
 - [Mathematics](#mathematics)
 - [Mechanical](#mechanical)
@@ -212,6 +213,9 @@ ___
 
 ### Knitting
 - [fill in](https://google.com)
+
+### Linux
+- [CompTIA Linux+ Certification](https://www.comptia.org/en-us/certifications/linux/)
 
 ### Locksmithing
 - [Associated Locksmiths of America](https://www.aloa.org/certifications)
