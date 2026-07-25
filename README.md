@@ -99,7 +99,7 @@ ___
 - [SKYNET](https://www.skynet.unc.edu)
 
 ### Aviation
-- [Fill in](https://google.com)
+- [AOPA Online Courses](https://www.aopa.org/training-and-safety/online-learning/online-courses)
 
 ### Bicycle Repair
 - [Alison Free Course in Bicycle Maintenance](https://alison.com/course/bicycle-maintenance)
@@ -145,7 +145,8 @@ ___
 - [OpenCourseWare MIT Computer System Architecture Course](https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/)
 
 ### Crochet
-- [fill in](https://google.com)
+- [Sigoni Macaroni Learn to Crochet Masterclass](https://www.sigonimacaroni.com/learn-to-crochet-masterclass-free-online-class/)
+- [Crochet Coach Learn How to Crochet](https://crochetcoach.com/)
 
 ### Culinary
 - [American Culinary Federation](https://www.acfchefs.org/ACF/Certify/ACF/Certify/)  
@@ -153,7 +154,8 @@ ___
 - [State-based Food Providers Card]
 
 ### Dev Ops
-- [fill in](https://google.com)
+- [AWS Certified DevOps Engineer](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
+- [Microsoft Intro to DevOps](https://learn.microsoft.com/en-us/training/modules/introduction-to-devops/)
 
 ### Digital Forensics
 - [Legal Tech Society](https://legaltechsociety.org/Professional-Home)
@@ -197,7 +199,7 @@ ___
 - [GameDevTV](https://www.gamedev.tv)
 
 ### Gardening 
-- [Master Gardener](https://ahsgardening.org/master-gardeners/)
+- [Master Gardener Certification](https://ahsgardening.org/master-gardeners/)
 - [Organic Grower School](https://www.organicgrowersschool.org/)
 - [American Horticultural Society](https://ahsgardening.org/self-paced-online-courses/)
 
@@ -214,11 +216,12 @@ ___
 ### Internet of Things
 - [Stanford Online Intro to IoT](https://online.stanford.edu/courses/xee100-introduction-internet-things)
 
-### Jewelry Making
-- [fill in](https://google.com)
+### Jewellery Making
+- [Jewellers Academy Jewellery Making](https://www.jewellersacademy.com/jewellery-making)
 
 ### Knitting
-- [fill in](https://google.com)
+- [Craftsy Knitting Classes](https://www.craftsy.com/category/knitting/classes)
+- [Sheep & Stitch How to Knit for Beginners](https://sheepandstitch.com/how-to-knit/)
 
 ### Linux
 - [CompTIA Linux+ Certification](https://www.comptia.org/en-us/certifications/linux/)
@@ -303,10 +306,11 @@ ___
 - [Stanford Online Quantum Computing](https://online.stanford.edu/courses/cs259q-quantum-computing)
 
 ### Robotics
-- [fill in](https://google.com)
+- [Hugging Face Free Robotics Course](https://huggingface.co/learn/robotics-course/en/unit0/1)
+- [Mithi's Robotics Coursework Github Repo](https://github.com/mithi/robotics-coursework)
 
 ### Rock Climbing
-- [fill in](https://google.com)
+- [Kaf Adventures Online Courses](https://kafadventures.com/collections/online-courses)
 
 ### Scuba
 - [Scuba Cert](https://store.padi.com/en-us/courses/)
