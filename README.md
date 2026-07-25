@@ -3,72 +3,99 @@ A compilation of as many exciting or random courses, certifications, licenses, o
 
 Coursework is organized in an alphabetized index with hyperlinks to available online resources. Certain courses have their own directories with custom built coursework by myself and others as an easy place to start learning or start getting involved in some of these topics. 
 
-### Index
+## Index
+### 0-9
 - [3D Printing](#3d-printing)
+### A
 - [Amateur HAM Radio](#amateur-ham-radio)
 - [Animation](#animation)
 - [Aborist](#arborist)
 - [Astronomy](#astronomy)
 - [Aviation](#aviation)
+### B
 - [Bicycle Repair](#bicycle-repair)
 - [Bioinformatics](#bioinformatics)
 - [Bird Watching](#bird-watching)
+### C
 - [Candle Making](#candle-making)
 - [Carpentry](#carpentry)
 - [Cartography](#cartography)
-- [Chemistry](#Chemistry)
+- [Chemistry](#chemistry)
 - [Clinical Medicine](#clinical-medicine)
 - [Cloud](#cloud)
 - [Computer Architecture](#computer-architecture)
 - [Crochet](#crochet)
 - [Culinary](#culinary)
+### D
 - [Dev Ops](#dev-ops)
 - [Digital Forensics](#digital-forensics)
 - [Drone Piloting](#drone-piloting)
+### E
 - [Electrical](#electrical)
 - [Emergency Medicine](#emergency-medicine)
 - [Environmental Awareness](#environmental-awareness)
 - [Ethical Hacking](#ethical-hacking)
+### F
 - [Firearms](#firearms)
 - [Forklift Training](#forklift-training)
+### G
 - [Game Development](#game-development)
 - [Gardening](#gardening)
 - [Gemology](#gemology)
 - [Geographic Information Systems](#geographic-information-systems)
+### H
 - [HVACR](#hvacr)
+### I
 - [Internet of Things](#internet-of-things)
+### J
 - [Jewelry Making](#jewelry-making)
+### K
 - [Knitting](#knitting)
+### L
 - [Linux](#linux)
 - [Locksmithing](#locksmithing)
+### M
 - [Mathematics](#mathematics)
 - [Mechanical](#mechanical)
 - [Meteorology](#meteorology)
 - [Miscellaneous](#miscellaneous)
 - [Musical Instruments](#musical-instruments)
+### N
 - [Notary Commission](#notary-commission)
+### O
 - [Offroad Vehicles](#offroad-vehicles)
 - [Operating Systems](#operating-systems)
 - [Origami](#origami)
 - [Outdoor Activities](#outdoor-activities)
+### P
 - [Photography](#photography)
 - [Physical Health and Wellness](#physical-health-and-wellness)
 - [Programming](#programming)
 - [Public Safety](#public-safety)
 - [Puzzle Solving](#puzzle-solving)
 - [Pyrotechnism](#pyrotechnism)
+### Q
 - [Quantum Physics](#quantum-physics)
+### R
 - [Robotics](#robotics)
 - [Rock Climbing](#rock-climbing)
+### S
 - [Scuba](#scuba)
 - [Solar Installation](#solar-installation)
+### T
 - [Taxidermy](#taxidermy)
+### U
 - [UAV Operations](#uav-operations)
+### V
 - [Videography](#videography)
+### W
 - [Web Development](#web-development)
 - [Welding](#welding)
+### X
 - [X-ray Imaging](#x-ray-imaging)
+### Y
 - [Yeast Culturing](#yeast-culturing)
+### Z
 - [Zymology](#zymology)
 
 ___
