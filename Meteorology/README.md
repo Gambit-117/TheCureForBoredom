@@ -1,4 +1,4 @@
-# Intro
+# Meterology
 
 Meteorology is the scientific study of the Earth, its atmosphere, and its weather, with a focus on short-term weather forecasting, quantifying and qualifying atmospheric phenomena, and measurements primarily within the troposphere. While the extent of this field is quite complex, hobbiests can very easily get involved in meteorology in a variety of ways.
 
