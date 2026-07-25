@@ -97,7 +97,8 @@ ___
 - [Fill in](https://google.com)
 
 ### Bicycle Repair
-- [fill in](https://google.com)
+- [Alison Free Course in Bicycle Maintenance](https://alison.com/course/bicycle-maintenance)
+- [REI Intro to Bike Maintenance Article and Video Series](https://www.rei.com/learn/expert-advice/intro-to-bike-maintenance-class.html)
 
 ### Bioinformatics 
 - [Bioconductors in R](https://www.datacamp.com/courses/introduction-to-bioconductor-in-r?utm_cid=1565610363&utm_aid=183282097606&utm_campaign=220808_1-ps-dscia~tech~r_2-b2c_3-nam_4-prc_5-na_6-na_7-le_8-pdsh-go_9-nb-e_10-na_11-na&utm_loc=9008885-&utm_mtd=b-c&utm_kw=differential%20expression%20analysis%20r&utm_source=google&utm_medium=paid_search&utm_content=ps-dscia~nam-en~tech~r~bioinformatics&gad_source=1&gad_campaignid=1565610363&gbraid=0AAAAADQ9WsHMIUEXCJsVX567DGNyTCzjC&gclid=CjwKCAiA_dDIBhB6EiwAvzc1cNJbibgeEuAH9DLihKvRq0399ixBYklHMvvMQkTcWodXGyG0SPuIJxoC2WQQAvD_BwE) 
@@ -206,7 +207,7 @@ ___
 - [EPA Section 608 Certification](https://www.epa.gov/section608/section-608-technician-certification)
 
 ### Internet of Things
-- [fill in](https://google.com)
+- [Stanford Online Intro to IoT](https://online.stanford.edu/courses/xee100-introduction-internet-things)
 
 ### Jewelry Making
 - [fill in](https://google.com)
@@ -238,7 +239,7 @@ ___
 
 ### Miscellaneous
 - [Rat Tickling](https://storage.googleapis.com/ecourses/Rat%20Tickling%20Certification/story_html5.html)  
-- Zamboni Operator Certification
+- Zamboni Operator Certification: CANT FIND
 
 ### Musical Instruments
 - [Saxophone Courses - Jay from BetterSax](https://bettersax.com)
@@ -286,8 +287,10 @@ ___
 ### Pyrotechnism
 - [PGI Training | Pyrotechnics Guild International](https://pgi.org/training)
 
-### Quantum Physics
-- [fill in](https://google.com)
+### Quantum Studies
+- [MIT OpenCourse Quantum Physics I](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2013/)
+- [Stanford Online Quantum Mechanics for Scientists and Engineers](https://online.stanford.edu/courses/soe-yeeqmse01-quantum-mechanics-scientists-and-engineers)
+- [Stanford Online Quantum Computing](https://online.stanford.edu/courses/cs259q-quantum-computing)
 
 ### Robotics
 - [fill in](https://google.com)
@@ -302,10 +305,11 @@ ___
 - [Solar Energy International Free Online Courses](https://www.solarenergy.org/free-learning/)
 
 ### Taxidermy
-- [fill in](https://google.com)
+- [Free Taxidermy School Online](https://www.freetaxidermyschool.com/)
 
 ### UAV Operations
-- [fill in](https://google.com)
+- [US Department of the Interior UAS Training](https://www.doi.gov/aviation/uas/training)
+- [FAA Become a Certified Remote Pilot](https://www.faa.gov/uas/commercial_operators/become_a_drone_pilot)
 
 ### Videography
 - [The School of Photography Videography Course](https://www.theschoolofphotography.com/courses/online-videography-course)
@@ -320,7 +324,9 @@ ___
 - [ARRT Certifications](https://www.arrt.org/pages/about-the-profession/arrt-certification-and-registration)
 
 ### Yeast Culturing
-- [fill in](https://google.com)
+- [eCornell Yeast and Fermentation Course](https://ecornell.cornell.edu/courses/food-and-plant-science/yeast-and-fermentation/)
+- [Siebel Institute of Technology Yeast Pure Cultures and Propagation Course](https://www.siebelinstitute.com/specialized-lectures/yeast-pure-cultures-and-propagation)
+- [White Labs Yeast Essentials In-Person Course](https://go.whitelabs.com/yeast-essentials)
 
-### Zymology
-- [fill in](https://google.com)
+### Zymology and Fermentation Science
+- [Siebel Institute of Technology Introduction to Brewing Microbiology](https://www.siebelinstitute.com/specialized-lectures/introduction-to-brewing-microbiology)
