@@ -110,6 +110,7 @@ ___
 **Resources:** [Resources](./Amateur_Radio/)
 
 - [Amateur Radio Relay League (ARRL)](https://www.arrl.org)
+- [Schedule an Exam with ARRL](https://www.arrl.org/find-an-amateur-radio-license-exam-session)
 - [Islands on the Air (IOTA)](https://www.iota-world.org)
 - [Parks on the Air (POTA)](https://parksontheair.com)
 - [Summits on the Air (SOTA)](https://www.sota.org.uk)
