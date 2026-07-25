@@ -6,6 +6,7 @@ Coursework is organized in an alphabetized index with hyperlinks to available on
 ### Index
 - [3D Printing](#3d-printing)
 - [Amateur HAM Radio](#amateur-ham-radio)
+- [Animation](#animation)
 - [Aborist](#arborist)
 - [Astronomy](#astronomy)
 - [Aviation](#aviation)
@@ -54,6 +55,7 @@ Coursework is organized in an alphabetized index with hyperlinks to available on
 - [Physical Health and Wellness](#physical-health-and-wellness)
 - [Programming](#programming)
 - [Public Safety](#public-safety)
+- [Puzzle Solving](#puzzle-solving)
 - [Pyrotechnism](#pyrotechnism)
 - [Quantum Physics](#quantum-physics)
 - [Robotics](#robotics)
@@ -81,6 +83,9 @@ ___
 - [Islands on the Air (IOTA)](https://www.iota-world.org)
 - [Parks on the Air (POTA)](https://parksontheair.com)
 - [Summits on the Air (SOTA)](https://www.sota.org.uk)
+
+### Animation
+- [Animation Mentor Online Animation School](https://www.animationmentor.com/)
 
 ### Arborist  
 - [Chainsaw Faller Position Training](https://iqcsweb.nwcg.gov/usfs-certification-falling-positions) 
@@ -282,7 +287,12 @@ ___
 
 ### Public Safety
 - [OSHA](https://www.osha.gov/training/certificate)  
-- [Radiation Safety Officer Training](https://www.ntanet.net/rso.html?gad_source=1&gad_campaignid=671260&gbraid=0AAAAAD_vTHCV04gEwyaNldcEvoTllnZFh&gclid=CjwKCAiA_dDIBhB6EiwAvzc1cH_GZIXszCW0OT_dxGGzFrParKx-OAntfIvL-Pd70YVaOenoAryX6xoCXaQQAvD_BwE)  
+- [Radiation Safety Officer Training](https://www.ntanet.net/rso.html?gad_source=1&gad_campaignid=671260&gbraid=0AAAAAD_vTHCV04gEwyaNldcEvoTllnZFh&gclid=CjwKCAiA_dDIBhB6EiwAvzc1cH_GZIXszCW0OT_dxGGzFrParKx-OAntfIvL-Pd70YVaOenoAryX6xoCXaQQAvD_BwE)
+
+### Puzzle Solving
+- [Beginners Guide to the Rubiks Cube](https://solvethecube.com/)
+- [CubeSkills Rubiks Cube Speedcubing](https://www.cubeskills.com/)
+- [Sudoku Techniques](https://www.conceptispuzzles.com/index.aspx?uri=puzzle/sudoku/techniques)
 
 ### Pyrotechnism
 - [PGI Training | Pyrotechnics Guild International](https://pgi.org/training)
