@@ -48,7 +48,7 @@ Coursework is organized in an alphabetized index with hyperlinks to available on
 ### I
 - [Internet of Things](#internet-of-things)
 ### J
-- [Jewelry Making](#jewelry-making)
+- [Jewellery Making](#jewellery-making)
 ### K
 - [Knitting](#knitting)
 ### L
@@ -75,7 +75,7 @@ Coursework is organized in an alphabetized index with hyperlinks to available on
 - [Puzzle Solving](#puzzle-solving)
 - [Pyrotechnism](#pyrotechnism)
 ### Q
-- [Quantum Physics](#quantum-physics)
+- [Quantum Studies](#quantum-studies)
 ### R
 - [Robotics](#robotics)
 - [Rock Climbing](#rock-climbing)
@@ -96,7 +96,7 @@ Coursework is organized in an alphabetized index with hyperlinks to available on
 ### Y
 - [Yeast Culturing](#yeast-culturing)
 ### Z
-- [Zymology](#zymology)
+- [Zymology and Fermentation Science](#zymology-and-fermentation-science)
 
 ___
 
@@ -106,6 +106,9 @@ ___
 - [Prusa](https://www.prusa3d.com/)
 
 ### Amateur HAM Radio
+
+**Resources:** [Resources](./Amateur_Radio/)
+
 - [Amateur Radio Relay League (ARRL)](https://www.arrl.org)
 - [Islands on the Air (IOTA)](https://www.iota-world.org)
 - [Parks on the Air (POTA)](https://parksontheair.com)
@@ -133,6 +136,9 @@ ___
 - [REI Intro to Bike Maintenance Article and Video Series](https://www.rei.com/learn/expert-advice/intro-to-bike-maintenance-class.html)
 
 ### Bioinformatics 
+
+**Resources:** [Resources](./Bioinformatics/)
+
 - [Bioconductors in R](https://www.datacamp.com/courses/introduction-to-bioconductor-in-r?utm_cid=1565610363&utm_aid=183282097606&utm_campaign=220808_1-ps-dscia~tech~r_2-b2c_3-nam_4-prc_5-na_6-na_7-le_8-pdsh-go_9-nb-e_10-na_11-na&utm_loc=9008885-&utm_mtd=b-c&utm_kw=differential%20expression%20analysis%20r&utm_source=google&utm_medium=paid_search&utm_content=ps-dscia~nam-en~tech~r~bioinformatics&gad_source=1&gad_campaignid=1565610363&gbraid=0AAAAADQ9WsHMIUEXCJsVX567DGNyTCzjC&gclid=CjwKCAiA_dDIBhB6EiwAvzc1cNJbibgeEuAH9DLihKvRq0399ixBYklHMvvMQkTcWodXGyG0SPuIJxoC2WQQAvD_BwE) 
 
 ### Bird Watching
@@ -211,6 +217,9 @@ ___
 - [IUCN - Intro to Cities and Nature](https://iucnacademy.org/courses/introduction-to-cities-and-nature/)
 
 ### Ethical Hacking
+
+**Resources:** [Resources](./Ethical_Hacking/)
+
 - [EC Council Certified Ethical Hacker](https://eccouncil.org)
 - [CompTIA Pentest+](https://www.comptia.org/en-us/certifications/pentest/)
 - [TryHackMe](https://tryhackme.com)
@@ -266,6 +275,9 @@ ___
 - [Small Engine Repair](https://www.eetc.org/page/PrinciplesofSmallEngineTechnology)  
 
 ### Meteorology 
+
+**Resources:** [Resources](./Meteorology/)
+
 - [American Meteorological Society](https://www.ametsoc.org)
 - [SKYWARN - National Storm Spotter](https://www.weather.gov/skywarn)
 - [Community Collaborative Rain, Hail, and Snow Network (CoCoRaHS)](https://www.cocorahs.org/)
@@ -277,6 +289,9 @@ ___
 - Zamboni Operator Certification: CANT FIND
 
 ### Musical Instruments
+
+**Resources:** [Resources](./Music/)
+
 - [Saxophone Courses - Jay from BetterSax](https://bettersax.com)
 
 ### Notary Commission 
@@ -342,7 +357,7 @@ ___
 ### Scuba
 - [Scuba Cert](https://store.padi.com/en-us/courses/)
 
-### Solar Insallation
+### Solar Installation
 - [Solar Energy International Free Online Courses](https://www.solarenergy.org/free-learning/)
 
 ### Taxidermy
