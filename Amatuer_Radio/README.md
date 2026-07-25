@@ -1,5 +1,5 @@
 ## Amatuer Radio
-Amateur Radio, also known as ham radio, is a non-commercial hobby and communication service where licenses operators use designated radio frequencies to talk across towns, states, around the world, and even into space. You must pass a government test to get an official call sign and legal permission to transmit, but once you have it you are able to communicate via voice, morse code, and digital signals freely on the bands you are licensed to operate on.
+Amateur Radio, also known as ham radio, is a non-commercial hobby and communication service where licensed operators use designated radio frequencies to talk across towns, states, around the world, and even into space. You must pass a government test to get an official call sign and legal permission to transmit, but once you have it you are able to communicate via voice, morse code, and digital signals freely on the bands you are licensed to operate on.
 
 Getting certified in amateur radio is not difficult. The Amateur Radio Relay League (ARRL) is the premier National group that nearly all amateur radio operators utilize for training material, licensing, finding technology, and getting involved with the amateur radio community.
 
