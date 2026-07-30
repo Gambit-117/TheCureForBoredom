@@ -84,6 +84,7 @@ Coursework is organized in an alphabetized index with hyperlinks to available on
 - [Solar Installation](#solar-installation)
 ### T
 - [Taxidermy](#taxidermy)
+- [Trains](#trains)
 ### U
 - [UAV Operations](#uav-operations)
 ### V
@@ -363,6 +364,9 @@ ___
 
 ### Taxidermy
 - [Free Taxidermy School Online](https://www.freetaxidermyschool.com/)
+
+### Trains
+- [Model Train Stuff]([https://google.com](https://modeltrainstuff.com/)
 
 ### UAV Operations
 - [US Department of the Interior UAS Training](https://www.doi.gov/aviation/uas/training)
