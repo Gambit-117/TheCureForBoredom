@@ -332,12 +332,17 @@ ___
 ### Programming
 
 **Resources:** [Resources](./Programming) 
+
 **C/C++/C#**
 - [Edube C++](https://edube.org/study/cppe1)
+
 **JavaScript**
 - [JSE Certified Entry-Level JS Programmer](https://edube.org/certification/jse)
 - [JSE Certified Associate JS Programmer](https://jsinstitute.org/jsa-certification)
 - [Certificates.dev Junior/Mid-Level/Senior JS Dev Certs](https://certificates.dev/javascript)
+
+**Python**
+- [PCEP Certified Entry-Level/Associate/Professional Python Programmer](https://pythoninstitute.org/pcep)
 
 ### Public Safety
 - [OSHA](https://www.osha.gov/training/certificate)  
