@@ -42,6 +42,7 @@ Coursework is organized in an alphabetized index with hyperlinks to available on
 - [Game Development](#game-development)
 - [Gardening](#gardening)
 - [Gemology](#gemology)
+- [Geocaching](#geocaching)
 - [Geographic Information Systems](#geographic-information-systems)
 ### H
 - [HVACR](#hvacr)
@@ -243,6 +244,9 @@ ___
 
 ### Gemology  
 - [Gemology Institute of America (GIA) Gemologist](https://www.gia.edu/gem-education/program-graduate-gemologist)
+
+### Geocaching
+- [Geocaching Main Website](https://www.geocaching.com)
 
 ### Geographic Information Systems
 - [Esri Technical Certifications](https://www.esri.com/training/certification-find-exam/search/)
